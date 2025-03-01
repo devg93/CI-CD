@@ -31,3 +31,4 @@
 /home/neo/Desktop/GithuabAction/obj/Debug/net8.0/GithuabAction.pdb
 /home/neo/Desktop/GithuabAction/obj/Debug/net8.0/GithuabAction.genruntimeconfig.cache
 /home/neo/Desktop/GithuabAction/obj/Debug/net8.0/ref/GithuabAction.dll
+/home/neo/Desktop/GithuabAction/obj/Debug/net8.0/GithuabAction.sourcelink.json
