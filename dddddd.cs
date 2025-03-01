@@ -7,6 +7,6 @@ namespace GithuabAction
 {
     public class dddddd
     {
-        
+        string aaa="jemala ";
     }
 }
