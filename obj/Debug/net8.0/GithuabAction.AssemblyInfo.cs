@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GithuabAction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35837752a36f5b68a5f0ae58650896c7f9af2f96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f72077c55c7fcf79bab9e43726809a83a872e911")]
 [assembly: System.Reflection.AssemblyProductAttribute("GithuabAction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GithuabAction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
